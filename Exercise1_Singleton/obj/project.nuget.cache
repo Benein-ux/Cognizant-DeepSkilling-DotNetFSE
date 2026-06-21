@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rKyQCxqQeF1OpLveLfPFp10L3YQl00/KwdIq++h8xQzHMC7ZfZ2DKipC/nni8kuyjMrSiA+4ysZOa0iJ7gXuYQ==",
+  "success": true,
+  "projectFilePath": "/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/Exercise1_Singleton.csproj",
+  "expectedPackageFiles": [
+    "/home/ishar/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

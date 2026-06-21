@@ -1,0 +1,14 @@
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/bin/Debug/net8.0/Exercise2_FactoryMethod
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/bin/Debug/net8.0/Exercise2_FactoryMethod.deps.json
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/bin/Debug/net8.0/Exercise2_FactoryMethod.runtimeconfig.json
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/bin/Debug/net8.0/Exercise2_FactoryMethod.dll
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/bin/Debug/net8.0/Exercise2_FactoryMethod.pdb
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/obj/Debug/net8.0/Exercise2_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/obj/Debug/net8.0/Exercise2_FactoryMethod.AssemblyInfoInputs.cache
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/obj/Debug/net8.0/Exercise2_FactoryMethod.AssemblyInfo.cs
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/obj/Debug/net8.0/Exercise2_FactoryMethod.csproj.CoreCompileInputs.cache
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/obj/Debug/net8.0/Exercise2_FactoryMethod.dll
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/obj/Debug/net8.0/refint/Exercise2_FactoryMethod.dll
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/obj/Debug/net8.0/Exercise2_FactoryMethod.pdb
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/obj/Debug/net8.0/Exercise2_FactoryMethod.genruntimeconfig.cache
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise2_FactoryMethod/obj/Debug/net8.0/ref/Exercise2_FactoryMethod.dll

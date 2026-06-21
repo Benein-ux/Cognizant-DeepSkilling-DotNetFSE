@@ -1,0 +1,14 @@
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/bin/Debug/net8.0/Exercise1_Singleton
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/bin/Debug/net8.0/Exercise1_Singleton.deps.json
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/bin/Debug/net8.0/Exercise1_Singleton.runtimeconfig.json
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/bin/Debug/net8.0/Exercise1_Singleton.dll
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/bin/Debug/net8.0/Exercise1_Singleton.pdb
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/obj/Debug/net8.0/Exercise1_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/obj/Debug/net8.0/Exercise1_Singleton.AssemblyInfoInputs.cache
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/obj/Debug/net8.0/Exercise1_Singleton.AssemblyInfo.cs
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/obj/Debug/net8.0/Exercise1_Singleton.csproj.CoreCompileInputs.cache
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/obj/Debug/net8.0/Exercise1_Singleton.dll
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/obj/Debug/net8.0/refint/Exercise1_Singleton.dll
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/obj/Debug/net8.0/Exercise1_Singleton.pdb
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/obj/Debug/net8.0/Exercise1_Singleton.genruntimeconfig.cache
+/home/ishar/Cognizant-DeepSkilling/Module1-DesignPatterns/Exercise1_Singleton/obj/Debug/net8.0/ref/Exercise1_Singleton.dll
