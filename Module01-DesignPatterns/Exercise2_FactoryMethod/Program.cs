@@ -2,13 +2,11 @@
 
 namespace DesignPatterns.FactoryMethod
 {
-    // 1. The Product Interface
     public interface INotification
     {
         void Send(string message);
     }
 
-    // 2. Concrete Products
     public class EmailNotification : INotification
     {
         public void Send(string message)
@@ -25,10 +23,8 @@ namespace DesignPatterns.FactoryMethod
         }
     }
 
-    // 3. The Creator (Factory)
     public abstract class NotificationFactory
     {
-        // The Factory Method
         public abstract INotification CreateNotification();
 
         public void Deliver(string message)
@@ -38,7 +34,6 @@ namespace DesignPatterns.FactoryMethod
         }
     }
 
-    // 4. Concrete Creators
     public class EmailFactory : NotificationFactory
     {
         public override INotification CreateNotification() => new EmailNotification();
@@ -55,11 +50,9 @@ namespace DesignPatterns.FactoryMethod
         {
             Console.WriteLine("--- Executing Factory Method Pattern ---");
 
-            // Using the Email Factory
             NotificationFactory emailFactory = new EmailFactory();
             emailFactory.Deliver("Welcome to the Deep Skilling program!");
 
-            // Using the SMS Factory
             NotificationFactory smsFactory = new SmsFactory();
             smsFactory.Deliver("Your OTP is 492011.");
         }

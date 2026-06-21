@@ -9,7 +9,6 @@ namespace DSA.Search
         public string ProductName { get; set; }
         public string Category { get; set; }
 
-        // Required for sorting before Binary Search
         public int CompareTo(Product other)
         {
             return this.ProductId.CompareTo(other.ProductId);
@@ -34,17 +33,10 @@ namespace DSA.Search
             Console.WriteLine(foundLinear != null ? $"Found: {foundLinear}" : "Product not found.");
 
             Console.WriteLine("\n--- Binary Search ---");
-            // Binary search STRICTLY requires a sorted array
             Array.Sort(products); 
             var foundBinary = BinarySearch(products, 102);
             Console.WriteLine(foundBinary != null ? $"Found: {foundBinary}" : "Product not found.");
             
-            /* * ANALYSIS:
-             * Binary search (O(log n)) is vastly superior for an e-commerce platform compared 
-             * to Linear search (O(n)). E-commerce platforms are read-heavy (many searches). 
-             * Keeping the data sorted allows binary search to instantly query millions of 
-             * products in fractions of a second.
-             */
         }
 
         public static Product LinearSearch(Product[] arr, int targetId)

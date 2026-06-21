@@ -2,17 +2,14 @@
 
 namespace DesignPatterns.Singleton
 {
-    // Sealed prevents inheritance, ensuring strict control over the instance
     public sealed class ConfigurationManager
     {
-        // Lazy<T> makes it inherently thread-safe and only instantiates when called
         private static readonly Lazy<ConfigurationManager> _instance = 
             new Lazy<ConfigurationManager>(() => new ConfigurationManager());
 
         public string AppName { get; private set; }
         public string Version { get; private set; }
 
-        // Private constructor prevents external instantiation using 'new'
         private ConfigurationManager()
         {
             Console.WriteLine("Initializing Configuration Manager...");
@@ -20,7 +17,6 @@ namespace DesignPatterns.Singleton
             Version = "1.0.0";
         }
 
-        // Global access point
         public static ConfigurationManager Instance => _instance.Value;
 
         public void DisplayConfig()
@@ -35,13 +31,11 @@ namespace DesignPatterns.Singleton
         {
             Console.WriteLine("--- Executing Singleton Pattern ---");
 
-            // Attempting to get multiple instances
             ConfigurationManager config1 = ConfigurationManager.Instance;
             ConfigurationManager config2 = ConfigurationManager.Instance;
 
             config1.DisplayConfig();
 
-            // Verification
             if (ReferenceEquals(config1, config2))
             {
                 Console.WriteLine("SUCCESS: Both variables contain the exact same instance in memory.");
